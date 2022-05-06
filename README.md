@@ -1,4 +1,4 @@
-# Hola :)
+# Hola!!
 
 Mi nombre es María. El año pasado termié el grado de Estadística y Empresa y, actualmente, me encuentro cursando el Master de Big Data and Busininess Analytics a la vez que realizo las prácticas del mismo en la area de Big Data de la empresa Bosonit. 
 
