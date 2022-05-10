@@ -5,5 +5,3 @@ Mi nombre es María. El año pasado termié el grado de Estadística y Empresa y
 Mi repositorio va a estar formado por diferentes carpetas, donde voy a ir subiendo los scripts que he utilizado para desarrollar mis proyectos personales  y aprender sobre distintas areas. 
 
 En la carpeta **Learn_Spark**, se encuentran los archivos que he utilizado para poner en práctica los conocimientos que he ido adquiriendo sobre Spark tras la lectura del libro Learning-Spark 2ª edicción. Dentro de esta, aparecen dos carpetas: una utilizando el lenguaje Scala y otra con Python. 
-
-Por otro lado, se encuentra la carpeta **Machine Learning**, donde subiré los diferentes proyectos personales que he desarrollado sobre esta área con lenguaje R y Python.
